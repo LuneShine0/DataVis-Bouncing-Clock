@@ -7,7 +7,7 @@ let MSec, MMin, MHour;
 const gravity = 0.35;
 
 function setup() {
-  createCanvas(1080, 1080);
+  createCanvas(1920, 1080);
   frameRate(60);
   noStroke();
   MHour = hour();
